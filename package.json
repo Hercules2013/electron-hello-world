@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Hercules2013/electron-hello-world#readme",
   "devDependencies": {
     "electron": "^29.1.1",
-    "electron-builder": "^24.13.3"
+    "electron-builder": "^24.13.3",
+    "electron-updater": "^6.1.8"
   }
 }
