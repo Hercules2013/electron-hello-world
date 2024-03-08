@@ -1,10 +1,11 @@
 {
   "name": "electron-hello-world",
   "version": "1.0.0",
-  "description": "",
+  "description": "ElectronJS Hello-World Application",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "electron-builder"
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,8 @@
     "url": "https://github.com/Hercules2013/electron-hello-world/issues"
   },
   "homepage": "https://github.com/Hercules2013/electron-hello-world#readme",
-  "dependencies": {
-    "electron": "^29.1.1"
+  "devDependencies": {
+    "electron": "^29.1.1",
+    "electron-builder": "^24.13.3"
   }
 }
