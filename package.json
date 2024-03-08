@@ -1,0 +1,22 @@
+{
+  "name": "electron-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hercules2013/electron-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hercules2013/electron-hello-world/issues"
+  },
+  "homepage": "https://github.com/Hercules2013/electron-hello-world#readme",
+  "dependencies": {
+    "electron": "^29.1.1"
+  }
+}
